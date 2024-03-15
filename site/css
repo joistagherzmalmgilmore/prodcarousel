@@ -30,3 +30,9 @@ carousel {
       }
     }
   }
+
+// palette: https://flatuicolors.com
+  .overlays {
+    position: relative;
+    width: 36em;
+    height: 18em;
