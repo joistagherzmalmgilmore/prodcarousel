@@ -56,3 +56,12 @@ carousel {
     margin: 0;
     padding: 0 0 0 6em;
     list-style-type: none;
+
+    
+  .nav-link {
+      font-size: 2rem;
+      font-family: Lora, serif;
+      line-height: 2;
+      text-decoration: none;
+      color: #7f8c8d;
+      transition: 0.3s;
