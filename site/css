@@ -65,3 +65,8 @@ carousel {
       text-decoration: none;
       color: #7f8c8d;
       transition: 0.3s;
+
+    
+  &:hover {
+        color: #1c1e1f;
+      }
