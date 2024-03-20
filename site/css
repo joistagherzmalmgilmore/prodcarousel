@@ -70,3 +70,11 @@ carousel {
   &:hover {
         color: #1c1e1f;
       }
+
+        &.active {
+        color: black;
+        pointer-events: none;
+      }
+    }
+  }
+}
